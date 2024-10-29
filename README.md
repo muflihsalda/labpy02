@@ -62,11 +62,11 @@ Dan selesai diakhiri dengan simbol oval.
 
 ### Ini adalah Programnya dalam bentuk python:
 
-![gambar](sreenshot\tiket1.png)
+![gambar](tiket1.png)
 
 ### Ini adalah hasil dari program yang telah diinputkan:
 
-![gambar](sreenshot\tiket2.png)
+![gambar](tiket2.png)
 
 ## Membuat program dan flowchart kalkulator sederhana menggunakan if elif else untuk menentukan operasi aritmatika
 
@@ -151,8 +151,8 @@ Dan selesai diakhiri menggunakan simbol oval.
 
 ### Ini adalah programnya dalam bentuk python:
 
-![gambar](sreenshot\kalkulator1.png)
+![gambar](kalkulator1.png)
 
 ### Ini adalah hasil dari program yang telah diinputkan:
 
-![gambar](sreenshot\kalkulator2.png)
+![gambar](kalkulator2.png)
